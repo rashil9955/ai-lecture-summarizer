@@ -1,0 +1,7 @@
+{
+  "name": "Lecture Summarizer AI",
+  "description": "Upload your textbook content and chapter, then use your microphone to get a live summary of your professor's lecture. At the end, receive a comprehensive summary of the entire session.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

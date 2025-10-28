@@ -1,0 +1,8 @@
+export enum AppState {
+  WELCOME,
+  CONTEXT_PROMPT,
+  SETUP,
+  RECORDING,
+  SUMMARIZING,
+  FINISHED,
+}
